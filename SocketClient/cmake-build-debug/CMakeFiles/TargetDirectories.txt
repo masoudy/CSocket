@@ -1,0 +1,3 @@
+/home/masoudy/Desktop/SocketCProjects/SocketClient/cmake-build-debug/CMakeFiles/SocketClient.dir
+/home/masoudy/Desktop/SocketCProjects/SocketClient/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/masoudy/Desktop/SocketCProjects/SocketClient/cmake-build-debug/CMakeFiles/rebuild_cache.dir

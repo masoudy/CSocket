@@ -1,0 +1,4 @@
+/home/masoudy/DevelopeTools/ClionIntelij/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/masoudy/DevelopeTools/ClionIntelij/bin/ninja/linux/ninja -G Ninja -S /home/masoudy/Desktop/SocketCProjects/SocketServer -B /home/masoudy/Desktop/SocketCProjects/SocketServer/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/masoudy/Desktop/SocketCProjects/SocketServer/cmake-build-debug

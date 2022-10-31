@@ -1,0 +1,5 @@
+# ninja log v5
+0	34	1660626600738099028	CMakeFiles/SocketUtil.dir/socketutil.c.o	6f4ff957634f195a
+34	83	1660626600786097578	libSocketUtil.a	52606e943f63bc7d
+1	117	1660626833087261960	CMakeFiles/SocketUtil.dir/socketutil.c.o	6f4ff957634f195a
+117	169	1660626833195258854	libSocketUtil.a	52606e943f63bc7d

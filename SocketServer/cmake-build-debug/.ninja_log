@@ -1,0 +1,23 @@
+# ninja log v5
+28	66	1660625710899005585	SocketServer	2addbec88b4fea67
+0	28	1660625710859007542	CMakeFiles/SocketServer.dir/main.c.o	b3e37d04d5583d98
+0	49	1660627612833802459	CMakeFiles/SocketServer.dir/main.c.o	fd30ffcb9e720de
+49	92	1660627612881801174	SocketServer	2638c45ee07fcebd
+0	41	1660628249020919426	CMakeFiles/SocketServer.dir/main.c.o	fd30ffcb9e720de
+41	86	1660628249064918266	SocketServer	2638c45ee07fcebd
+0	43	1660628398248985726	CMakeFiles/SocketServer.dir/main.c.o	fd30ffcb9e720de
+43	82	1660628398284984778	SocketServer	2638c45ee07fcebd
+0	49	1660628633498794499	CMakeFiles/SocketServer.dir/main.c.o	fd30ffcb9e720de
+50	81	1660628633530793658	SocketServer	2638c45ee07fcebd
+0	48	1660629095926472620	CMakeFiles/SocketServer.dir/main.c.o	fd30ffcb9e720de
+48	87	1660629095958476520	SocketServer	2638c45ee07fcebd
+1	48	1660630005284482211	CMakeFiles/SocketServer.dir/main.c.o	fd30ffcb9e720de
+48	78	1660630005312482703	SocketServer	2638c45ee07fcebd
+0	55	1660630073517591026	CMakeFiles/SocketServer.dir/main.c.o	fd30ffcb9e720de
+56	108	1660630073569591804	SocketServer	2638c45ee07fcebd
+1	56	1660630861934222024	CMakeFiles/SocketServer.dir/main.c.o	fd30ffcb9e720de
+56	139	1660630862018222057	SocketServer	2638c45ee07fcebd
+0	62	1660631133969251922	CMakeFiles/SocketServer.dir/main.c.o	fd30ffcb9e720de
+62	96	1660631134013248774	SocketServer	2638c45ee07fcebd
+1	52	1660632037841154471	CMakeFiles/SocketServer.dir/main.c.o	fd30ffcb9e720de
+52	87	1660632037877153673	SocketServer	2638c45ee07fcebd
